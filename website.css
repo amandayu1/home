@@ -1,0 +1,199 @@
+body
+{
+	background-color:#e4fafc;
+	color: black;
+	font-family: Charcoal, Helvetica, sans-serif;
+	margin: 4% 20% 2% 20%;
+	text-align: justify;
+	line-height:30px;
+} 
+
+/*The colour of all the headings must be the same colour as the blue on their Future Hearts album.*/
+h1
+{
+	color:#89CFD7;
+	text-align: center;
+	font-size: 40px
+}
+
+h2
+{
+	font-size: 33px;
+	color:#89CFD7;
+	text-align: left;
+}
+
+.h3 
+{
+	margin-right:50px;
+}
+
+#Alex.h3
+{
+	margin-top: 100px;
+}
+
+#Jack.h3
+{
+	margin-top: 130px;
+}
+
+#Rian.h3
+{
+	margin-top: 50px;
+}
+
+#Zack.h3
+{
+	margin-top: 135px;
+}
+.albumtitle/*Album Header*/
+{
+	margin-top: 140px;
+}
+
+#party.albumtitle/*1st Album Header*/
+{
+	margin-top: 30px;
+}
+
+.coverpic/* This is is picture that spans across the page */
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 100%;
+}
+
+.pic1
+{
+	float: left;
+	width: 40%;
+	margin: 4px;
+}
+
+.pic2/*Members*/
+{
+	float: left;
+	margin: 4px;
+}
+table, th, td {
+	border-collapse: collapse;
+	border: 1px solid black;
+	height: 50px;
+	width: 33%;
+	text-align: center;
+	padding: 7px;
+}
+
+.button {/* main page button, external*/
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+	background-color:#89CFD7;
+    color: white;
+    padding: 1.4% 7%;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	float: left;
+    border: 1px solid black;
+	white-space: pre;
+	margin: 0px auto;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.button:hover {/* main page button, external*/
+    background-color:#9AB2B3;
+    color: white;
+	float: left;
+	border: 1px solid black;
+	white-space: pre;
+	margin: 0px auto;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.button2 {/* members page button */
+	background-color:#89CFD7;
+    color: white;
+    padding: 0.6% 6%;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	float: left;
+    border: 1px solid black;
+	white-space: pre;
+	margin: 0px auto;
+	margin-bottom: 20px;
+}
+
+.albumbutton /* albums page button */
+{
+	background-color:#89CFD7;
+    color: white;
+    padding: 0.6% 1%;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	float: left;
+    border: 1px solid black;
+	margin-bottom: 40px;
+}
+
+div.transbox {
+	margin: 30px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	opacity: 0.3;
+	border: none;
+}
+
+div.transbox p {
+	margin: 5%;
+	color: #000000;
+}
+
+#membersh2.h2/*Title of the Names of the Members*/
+{
+	float: right;
+	margin: 0 0 10px 10px;
+	font-size: 20px;
+}
+
+.he2/*Main page button, internal*/
+{
+	background-color:#89CFD7;
+    color: white;
+    padding: 0.6% 10%;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	float: left;
+    border: 1px solid black;
+	white-space: pre;
+	margin-bottom: 40px;
+	margin-top: 10px;
+}
+
+.description
+{
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+
+.albumcover
+{
+	float: right;
+	margin: 1px 1px 15px 20px;
+	width: 50%;
+}
+
+.ref
+{
+text-align: left;	
+}
