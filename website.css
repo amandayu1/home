@@ -13,7 +13,6 @@ h1
 {
 	color:#89CFD7;
 	text-align: center;
-	font-style: bold;
 	font-size: 40px
 }
 
@@ -22,8 +21,6 @@ h2
 	font-size: 33px;
 	color:#89CFD7;
 	text-align: left;
-	font-style: bold;
-	border-width; 10px
 }
 
 .h3 
@@ -132,6 +129,7 @@ table, th, td {
 	margin: 0px auto;
 	margin-bottom: 20px;
 }
+
 .albumbutton /* albums page button */
 {
 	background-color:#89CFD7;
